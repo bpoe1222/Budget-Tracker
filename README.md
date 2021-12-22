@@ -1,5 +1,13 @@
 # Budget-Tracker
 
+## Description
+
+PWA application that allows you to add to budget while offline
+
+## Link to deployed application
+
+[Click Here](https://guarded-peak-38694.herokuapp.com/)
+
 ## Your Task
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information.
